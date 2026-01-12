@@ -1,0 +1,8 @@
+data_path: ./gas_data
+base_url: https://raw.githubusercontent.com/rvm-courses/GasPrices/main/
+first_year: 2022
+last_year: 2024
+exclude_gas_types:
+  - E85
+  - GPLc
+geojson_url: https://raw.githubusercontent.com/gregoiredavid/france-geojson/master/departements.geojson
